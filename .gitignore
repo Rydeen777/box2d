@@ -5,3 +5,8 @@ settings.ini
 CMakeSettings.json
 out/
 .vs/
+
+
+# Hazel-specific
+bin
+bin-int
